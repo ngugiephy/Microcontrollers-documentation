@@ -10,10 +10,10 @@ We used a 4x4 matrix membrane keypad, there are usually other configuration such
 * Download keypad library from within the arduino IDE. Navigate to Sketch > Include library > manage libraries and search for keypad, make sure it is the one written by Mark stanley 
 * connect the pins of the keypad as shown then run the code in your IDE 
 
-![here](/assets/keypadconnection.png)
+![here](./assets/keypadconnection.png)
 
 If set up correctly the outputs of the keypad should display on the serial monitor 
 
-![here](/assets/output.png)
+![here](./assets/output.png)
 
 Success!
