@@ -1,5 +1,5 @@
 # INTRODUCTION TO RASPBERRY PI PICO 
-![Image](/home/steve/Microcontrollers-documentation/raspberry_pi/pico/Images/The_board.png) 
+![Image](./The_board.png) 
 
 The raspberry pi pico is raspberry pi's first board based on a single microcontroller chip. It is designed for computing like the arduino. 
 
@@ -33,7 +33,7 @@ Some of it's key features are:
 
 If you need to know the pin numbers for the raspberry pi pico you can refer to the following diagram: 
 
-![IMAGE](raspberry_pi/pico/Images/the_pins_intro.png)
+![IMAGE](./the_pins_intro.png)
 
 --- 
 ## PROGRAMMING THE RASPBERRY PI PICO
