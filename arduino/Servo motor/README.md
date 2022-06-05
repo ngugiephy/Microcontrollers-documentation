@@ -7,7 +7,7 @@
 
 - This is use of a micro servo using loops. The micro servo can be used in a number of projects like making 
 - You can access other methods from the link below.
-![alt servo motor circuit connection](servo motor schematic.png)
+![Servo motor connection](servo motor schematic.png)
 
 [Micro servo functions](https://www.arduino.cc/reference/en/libraries/servo/)
 
