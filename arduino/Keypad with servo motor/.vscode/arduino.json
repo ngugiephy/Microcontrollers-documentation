@@ -1,0 +1,5 @@
+{
+    "port": "/dev/ttyS0",
+    "board": "arduino:avr:uno",
+    "sketch": "keypad_test1.ino"
+}
