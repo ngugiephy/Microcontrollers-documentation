@@ -1,4 +1,5 @@
 # Micro Servo Motors
+## Servo motor with loops
 - This is use of a micro servo using loops. The micro servo can be used in a number of projects like making 
 - You can access other methods from the link below.
 ### Steps
@@ -16,8 +17,20 @@
 - 3 male-male jumper cables.
 
 ![alt Servo motor connection](servo%20motor%20schematic.png)
+## Servo Motor with potentiometer
+-Use the similar steps as above but inculde
+### Requirements
+-  A microservo motor
+-  Arduino uno
+-  jumper wires
+-  breadboard
+-  rotatory potentiometer (10kohm)
+
+![alt Servo motor connection with potentiometer](./potentiometer-motor.png)
 
 ### Contributer:
   - [Barbra Gitonga](https://github.com/BarbraGitonga) 
   - [Balimwacha Bethuel](https://www.linkedin.com/in/balimwacha-betuel-76b560237/)
+  - [Catherine Kabura](https://github.com/Kaburaa)
+
  
