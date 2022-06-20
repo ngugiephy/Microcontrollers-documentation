@@ -14,4 +14,7 @@ The raspberry pi pico has an onboard LED on the pin 25
 - Run the [code](./simpleblink.py) you can change the value of delay by changing the value of 
 ``` python
 time.sleep(1)
-```
+``` 
+ 
+# Blinking external LED
+- The steps above are used

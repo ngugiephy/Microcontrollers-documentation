@@ -33,7 +33,7 @@ Some of it's key features are:
 - Temperature sensor
 - [On-chip RTC](https://www.waveshare.com/pico-rtc-ds3231.htm#:~:text=The%20Pico%2DRTC%2DDS3231%20is,thanks%20to%20the%20stackable%20design.&text=Raspberry%20Pi%20Pico%20is%20NOT%20included.)
 - Special hardware features:
-  1. USB type-c connector (Data + Power)
+  1. Micro-USB B port for power and data (and for reprogramming the Flash)
   2. Onboard LED
   3. Boot select push button
 
