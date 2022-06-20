@@ -21,3 +21,6 @@ The circuit used is as shown below.
 
 
 ![](Images/i2c_lcd_shot.png)
+
+
+The simulation software used is [here](https://wokwi.com/projects/334191275169284691)
