@@ -28,7 +28,7 @@ SHIFT_DATA          = 4
 #   print(lcd[0])
 
 lcd_memory = 8
-lcd_address = 0x27;
+lcd_address = 0x27
 
 i_2_c = machine.I2C(0,sda=sdaPin, scl=sclPin, freq=400000)
 
